@@ -1,0 +1,6 @@
+streamlit
+langchain
+PyMuPDF
+chromadb
+tiktoken
+langchain-community
