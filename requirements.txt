@@ -5,3 +5,4 @@ langchain-ollama>=0.1.0
 chromadb>=0.4.24
 PyMuPDF>=1.23.3
 tiktoken>=0.6.0
+nomic>=2.1.4
